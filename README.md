@@ -1,6 +1,20 @@
 # -Reconocimiento-del-entorno-y-armado-de-equipos-con-SCV
 
-Repositorio del curso Programación para Videojuegos Etapa 1: Reconocimiento del entorno y armado de equipos con SCV.
+Repositorio del curso Programación para Videojuegos Etapa 1: Reconocimiento del entorno y armado de equipos con SCV. Incluye presentaciones individuales, organización de equipo y uso de control de versiones GitHub.
+
+---
+
+## María Camila Bolívar Betancourt
+![Mi foto - María Camila](MariaCamila/foto.jpeg)
+
+**Rol en la industria:** Artista 2D/3D  
+**Ubicación:** Tuluá, Colombia  
+
+### Perfil
+Estudiante de Ingeniería Multimedia apasionada por el arte digital. Me especializo en el diseño de personajes, escenarios y assets 2D para videojuegos.
+
+### Comida favorita
+![Mis galletas favoritas](MariaCamila/galletas.jpg)
 
 ---
 
