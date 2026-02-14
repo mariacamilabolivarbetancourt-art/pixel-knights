@@ -50,7 +50,7 @@ Estudiante de programación para videojuegos con interés en el desarrollo en Un
 ![Foto](Luis/LuisObando.jpg)
 
 **Rol:** Game Designer  
-**Ubicación:** Colombia  
+**Ubicación:** Colombia, Popayán-Cauca  
 
 ### Perfil
 Estudiante de Ingeniería Multimedia, con intereses en la dirección y desarrollo de proyectos audiovisuales y videojuegos.
