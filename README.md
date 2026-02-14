@@ -6,7 +6,7 @@ Repositorio del curso Programación para Videojuegos Etapa 1: Reconocimiento del
 
 ## Jhon Alexander Alvarado Morales
 
-![Foto](Jhon/Jhon Alexander.jpeg)
+![Foto](Jhon/Jhon%20Alexander.jpeg)
 
 **Rol:** Programador de videojuegos  
 **Ubicación:** Colombia  
@@ -15,7 +15,7 @@ Repositorio del curso Programación para Videojuegos Etapa 1: Reconocimiento del
 Estudiante de programación para videojuegos con interés en el desarrollo en Unity y trabajo en equipo.
 
 ### Comida favorita
-![Comida](Jhon/Arroz mixto.jpg)
+![Comida](Jhon/Arroz%20mixto.jpg)
 
 ---
 
